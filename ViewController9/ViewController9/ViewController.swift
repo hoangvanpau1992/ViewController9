@@ -18,6 +18,10 @@ class ViewController: UIViewController {
         // 2
         // 3
         // 4
+        
+    }
+    func move(){
+        
     }
 
     override func didReceiveMemoryWarning() {
